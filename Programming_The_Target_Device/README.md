@@ -6,4 +6,4 @@ This folder includes two FlashPro Express projects that can be used to program t
 This folder contains a simple RISCV design which allows users to use basic peripherals such as GPIO, UART and Timers. 
 
 ### PROC_SUBSYSTEM_TickTackToe
-This folder contains the design used along side of the TickTackToe example software found [here](https://github.com/RISCV-on-Microsemi-FPGA/M2GL025-Creative-Board/tree/master/ExampleSoftware). To use this deisgn a daughter board is needed from Adafruit, more information on this can be found [here](https://www.adafruit.com/product/1651).
+This folder contains the design used along side of the TickTackToe example software found [here](https://github.com/CLappin/M2GL025-Creative-Board/tree/master/Example_Software_Projects). To use this deisgn a daughter board is needed from Adafruit, more information on this can be found [here](https://www.adafruit.com/product/1651).
