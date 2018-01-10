@@ -3,7 +3,7 @@
 ================================================================================
 
 This design is targeted at the IGLOO2 Creative Developement Board. It uses
-the CoreRISCV_AXI4 as its soft processor.
+the MiV_RV32IMA_L1_AHB as its soft processor.
 
 --------------------------------------------------------------------------------
     Memory map
