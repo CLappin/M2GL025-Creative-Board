@@ -13,7 +13,7 @@ Once the GitHub repository is on your local machine.
 * Select menu items: "File" -> "Import" -> "General" -> "Existing Project into Workspace"
 * In the Import Projects dialog box click "Browse"
 * Select the M2GL025-Creative-Board/Example_Software_Projects folder of the M2GL025-Creative-Board GitHub repository you cloned or downloaded.
-* Select systic-blinky and/or TickTackToe example code.
+* Select TickTackToe example code.
 * Select "Copy projects into workspace" then select "Finish".
-* You will now see the systic-blink and/or TickTackToe project in the "Project Explorer" pane.
+* You will now see the TickTackToe project in the "Project Explorer" pane.
 
