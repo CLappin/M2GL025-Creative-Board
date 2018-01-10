@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet href="rptstyle.xsl" type="text/xsl" ?>
+<doc>
+<table>
+<header>
+</header>
+<row>
+ <cell>Design</cell>
+ <cell>PROC_SUBSYSTEM</cell>
+</row>
+<row>
+ <cell>Family</cell>
+ <cell>IGLOO2</cell>
+</row>
+<row>
+ <cell>Die</cell>
+ <cell>M2GL025</cell>
+</row>
+<row>
+ <cell>Package</cell>
+ <cell>256 VF</cell>
+</row>
+<row>
+ <cell>Temperature Range</cell>
+ <cell>0 - 85 C</cell>
+</row>
+<row>
+ <cell>Voltage Range</cell>
+ <cell>1.14 - 1.26 V</cell>
+</row>
+<row>
+ <cell>Speed Grade</cell>
+ <cell>STD</cell>
+</row>
+<row>
+ <cell>Design State</cell>
+ <cell>Post-Layout</cell>
+</row>
+<row>
+ <cell>Data source</cell>
+ <cell>Production</cell>
+</row>
+<row>
+ <cell>Min Operating Conditions</cell>
+ <cell>BEST - 1.26 V - 0 C</cell>
+</row>
+<row>
+ <cell>Max Operating Conditions</cell>
+ <cell>WORST - 1.14 V - 85 C</cell>
+</row>
+<row>
+ <cell>Scenario for Timing Analysis</cell>
+ <cell>timing_analysis</cell>
+</row>
+</table>
+<text></text>
+<section>
+<name>Summary</name>
+<table>
+<header>
+ <cell>Clock Domain</cell>
+ <cell>Period (ns)</cell>
+ <cell>Frequency (MHz)</cell>
+ <cell>Required Period (ns)</cell>
+ <cell>Required Frequency (MHz)</cell>
+ <cell>External Setup (ns)</cell>
+ <cell>External Hold (ns)</cell>
+ <cell>Min Clock-To-Out (ns)</cell>
+ <cell>Max Clock-To-Out (ns)</cell>
+</header>
+<row>
+ <cell>CLK0_PAD</cell>
+ <cell>1.980</cell>
+ <cell>505.051</cell>
+ <cell>20.000</cell>
+ <cell>50.000</cell>
+ <cell>N/A</cell>
+ <cell>N/A</cell>
+ <cell>N/A</cell>
+ <cell>N/A</cell>
+</row>
+<row>
+ <cell>HPMS_0_sb_0/CCC_0/GL0</cell>
+ <cell>35.644</cell>
+ <cell>28.055</cell>
+ <cell>15.152</cell>
+ <cell>65.998</cell>
+ <cell>0.023</cell>
+ <cell>1.734</cell>
+ <cell>6.157</cell>
+ <cell>14.424</cell>
+</row>
+<row>
+ <cell>HPMS_0_sb_0/FABOSC_0/I_RCOSC_25_50MHZ/CLKOUT</cell>
+ <cell>4.739</cell>
+ <cell>211.015</cell>
+ <cell>20.000</cell>
+ <cell>50.000</cell>
+ <cell>N/A</cell>
+ <cell>N/A</cell>
+ <cell>N/A</cell>
+ <cell>N/A</cell>
+</row>
+<row>
+ <cell>HPMS_0_sb_0/HPMS_0_sb_HPMS_0/CLK_CONFIG_APB</cell>
+ <cell>8.980</cell>
+ <cell>111.359</cell>
+ <cell>60.606</cell>
+ <cell>16.500</cell>
+ <cell>N/A</cell>
+ <cell>N/A</cell>
+ <cell>N/A</cell>
+ <cell>N/A</cell>
+</row>
+<row>
+ <cell>TCK</cell>
+ <cell>15.909</cell>
+ <cell>62.858</cell>
+ <cell>166.670</cell>
+ <cell>6.000</cell>
+ <cell>1.087</cell>
+ <cell>2.237</cell>
+ <cell>N/A</cell>
+ <cell>N/A</cell>
+</row>
+</table>
+<text></text>
+<table>
+<header>
+ <cell></cell>
+ <cell>Min Delay (ns)</cell>
+ <cell>Max Delay (ns)</cell>
+</header>
+<row>
+ <cell>Input to Output</cell>
+ <cell>0.027</cell>
+ <cell>0.047</cell>
+</row>
+</table>
+</section>
+</doc>

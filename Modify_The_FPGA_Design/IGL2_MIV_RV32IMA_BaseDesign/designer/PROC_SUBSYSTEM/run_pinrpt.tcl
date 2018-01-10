@@ -1,0 +1,10 @@
+DESIGN=PROC_SUBSYSTEM
+DESDIR=C:\Users\hbreslin\OneDrive - Microsemi Corporation\Ciaran stuff\IGL2_MIV_RV32IMA_BaseDesign\IGL2_MIV_RV32IMA_BaseDesign\designer\PROC_SUBSYSTEM
+TARGET_DIR=C:\Users\hbreslin\OneDrive - Microsemi Corporation\Ciaran stuff\IGL2_MIV_RV32IMA_BaseDesign\IGL2_MIV_RV32IMA_BaseDesign\designer\PROC_SUBSYSTEM
+FAM=IGLOO2
+DIE=PA4MGL2500_N
+PACKAGE=vf256
+PINRPT_BY_NAME=1
+PINRPT_BY_NUMBER=1
+BANK_REPORT=1
+IOREG_REPORT=1
